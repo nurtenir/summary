@@ -18,9 +18,19 @@
 </head>
 <body>
 	                           <img src="nuru.jpg"> 
-	                           <a href="https://web.whatsapp.com/">home</a>
+	                        
 <body>
 </html>
+
+</head>
+<body>
+	  <a href="https://web.whatsapp.com/">WhatsApp</a>
+	 <a href="https://www.instagram.com/nuru___a/">WhatsApp</a>
+	 <a href="https://web.telegram.org/z/">WhatsApp</a>
+	
+<body>
+</html>	
+	
 </head>
 <body>
     <h1>23.06.2004</h1>
