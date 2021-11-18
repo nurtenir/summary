@@ -19,7 +19,7 @@
 </head>
 <body>
 	<h1>Handsome boy </h1>
-	 <img src="nuru.jpeg"> 
+	 <img src="nuru.jpg"> 
 	<a href="index.html">home</a>
 <body>
 </html>
