@@ -25,8 +25,8 @@
 </head>
 <body>
 	  <a href="https://web.whatsapp.com/">WhatsApp</a>
-	 <a href="https://www.instagram.com/nuru___a/">WhatsApp</a>
-	 <a href="https://web.telegram.org/z/">WhatsApp</a>
+	 <a href="https://www.instagram.com/nuru___a/">Instagram</a>
+	 <a href="https://web.telegram.org/z/">Telegram</a>
 	
 <body>
 </html>	
