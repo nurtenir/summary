@@ -18,7 +18,7 @@
 </head>
 <body>
 	                           <img src="nuru.jpg"> 
-	                           <a href="index.html">home</a>
+	                           <a href="https://web.whatsapp.com/">home</a>
 <body>
 </html>
 </head>
