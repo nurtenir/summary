@@ -13,7 +13,7 @@
     <h1>Anarbek uulu Nurtenir</h1>
 
 body {
-  background-image: backgroun.jpg');
+  background-image: nurur.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
