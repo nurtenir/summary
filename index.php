@@ -22,7 +22,7 @@ n
 
 </head>
 <body>
-	                           <img src="nuru.jpg"> 
+	<p align="right"><img src="nuru.png" height="300" width="500" alt=""></p>
 	                        
 <body>
 </html>
