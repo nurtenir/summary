@@ -1,4 +1,3 @@
-!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -18,9 +17,8 @@
 
 </head>
 <body>
-	<h1>Handsome boy </h1>
-	 <img src="nuru.jpg"> 
-	<a href="index.html">home</a>
+	                           <img src="nuru.jpg"> 
+	                           <a href="index.html">home</a>
 <body>
 </html>
 </head>
