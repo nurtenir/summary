@@ -12,19 +12,8 @@
 <body>
     <h1>Anarbek uulu Nurtenir</h1>
 
-body {
-  background-image: nurur.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-}
-nav {
-  float: inline-start;
-  width: 100%;
-  height: 100px;
-  padding: 5px;
-}
 
+n
 
 
 </body>
